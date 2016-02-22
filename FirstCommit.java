@@ -17,6 +17,7 @@ public class FirstCommit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello Git!!!");
+        System.out.println("Hello Git Verzija 2");
     }
     
 }
